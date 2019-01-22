@@ -1,0 +1,16 @@
+{
+  "name": "node-redis-docker",
+  "version": "1.0.0",
+  "description": "Running docker container with redis server",
+  "main": "index.js",
+  "author": "Abdul Samad",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
